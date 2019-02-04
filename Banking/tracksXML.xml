@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tracks>
+    <track n="1" startX="34.6" startY="152.7">
+        <point x="3.0" y="5.0">2.0</point>
+        <point x="34.6" y="64.8">12.2</point>
+    </track>
+    <track n="2" startX="3213.5" startY="472.4">
+        <point x="34.2" y="86.3">5.3</point>
+    </track>
+</tracks>
